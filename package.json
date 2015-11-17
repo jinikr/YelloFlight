@@ -6,7 +6,6 @@
     "start": "node_modules/react-native/packager/packager.sh"
   },
   "dependencies": {
-    "babel-core": "^6.1.4",
     "react": "^0.14.2",
     "react-native": "^0.14.2",
     "react-native-button": "^1.2.1",
